@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ahmad-Tariq/static/css/main.f0ac4e26.css",
+    "main.js": "/Ahmad-Tariq/static/js/main.dda100d8.js",
+    "static/js/453.f5b27b78.chunk.js": "/Ahmad-Tariq/static/js/453.f5b27b78.chunk.js",
+    "static/media/IMG_2939.jpeg": "/Ahmad-Tariq/static/media/IMG_2939.5da0cd8c1fdf1c610dd5.jpeg",
+    "index.html": "/Ahmad-Tariq/index.html",
+    "main.f0ac4e26.css.map": "/Ahmad-Tariq/static/css/main.f0ac4e26.css.map",
+    "main.dda100d8.js.map": "/Ahmad-Tariq/static/js/main.dda100d8.js.map",
+    "453.f5b27b78.chunk.js.map": "/Ahmad-Tariq/static/js/453.f5b27b78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0ac4e26.css",
+    "static/js/main.dda100d8.js"
+  ]
+}
